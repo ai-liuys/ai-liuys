@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIGC & AI & K8S 
 - 🌱 I’m currently learning AI Agent 
 - 💞️ I’m looking to collaborate on AI Agent for Distributed Cloud Computing Platform
-- 📫 How to reach me: ai-liuys@outllok.com
+- 📫 How to reach me: ai-liuys@outlook.com
 - 😄 Pronouns: double cup love
 - ⚡ Fun fact: Fujianese speak Mandarin, Cantonese speak Mandarin, and the rest of us just laugh!
 
